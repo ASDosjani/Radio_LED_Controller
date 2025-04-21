@@ -1,0 +1,10 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+C2,0603,1,10uF,
+J1,SolderPad_01x04_1.5mm,1,Conn_01x04_Pin,
+"J2, J8, J9",SolderPad_01x03_1.5mm,3,Conn_01x03_Pin,
+"J3, J7",Molex_PicoBlade_53261-0571_1x05-1MP_P1.25mm_Horizontal,2,Conn_01x05,
+J4,SolderPad_01x01_1.2mm,1,UPDI,
+"J5, J6",SolderPad_01x02_1.5mm,2,Conn_01x02_Pin,
+"Q2, Q3",SOT-23 SS8050,2,SS8050,
+"R2, R3",0603,2,300,
+U1,VQFN-20-1EP_3x3mm_P0.4mm_EP1.7x1.7mm,1,ATtiny816-M,
